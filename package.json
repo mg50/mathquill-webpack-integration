@@ -1,0 +1,15 @@
+{
+  "name": "mathquill-webpack-integration",
+  "description": "Import MathQuill through webpack",
+  "version": "0.10.4",
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mg50/mathquill-webpack-integration.git"
+  },
+  "dependencies": {
+    "jquery": "latest",
+    "mathquill": "0.10.1"
+  }
+}
