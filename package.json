@@ -9,7 +9,7 @@
     "url": "https://github.com/mg50/mathquill-webpack-integration.git"
   },
   "dependencies": {
-    "jquery": "latest",
-    "mathquill": "latest"
+    "jquery": ">= 1",
+    "mathquill": ">= 0.10.1"
   }
 }
